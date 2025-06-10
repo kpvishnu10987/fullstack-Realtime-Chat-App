@@ -1,1 +1,1 @@
-https://fullstack-realtime-chat-app-uhuz.onrender.com
+https://fullstack-realtime-chat-app-1-8pcc.onrender.com
